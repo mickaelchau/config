@@ -1,0 +1,5 @@
+.config-format  must be copied in the root directory of the project
+you have to install clang-format => "sudo apt-get install clang-format"
+
+To format => run "clang-format -i /path/to/the/file
+

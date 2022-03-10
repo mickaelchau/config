@@ -1,0 +1,13 @@
+{
+    "editor.fontFamily": "monospace",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "C_Cpp.updateChannel": "Insiders",
+    "window.zoomLevel": 2,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
+}
+
